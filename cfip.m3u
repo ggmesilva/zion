@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, group-title="Camera",Casa link 1
+rtsp://admin:Zion14nov10!@192.168.1.90/user=admin_password=Zion14nov10!_channel=1_stream=0.sdp
+#EXTINF:0, group-title="Camera",Casa link 2
+rtsp://admin:Zion14nov10!@192.168.1.90:554/user=admin&password=Zion14nov10!&channel=1&stream=0.sdp?
